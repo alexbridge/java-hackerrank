@@ -1,4 +1,4 @@
-package hackerrank.bridge.alex.tendaysofstatistic;
+package alex.bridge.hackerrank.tendaysofstatistic;
 
 import java.io.ByteArrayInputStream;
 import java.util.Arrays;

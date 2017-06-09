@@ -1,4 +1,4 @@
-package hackerrank.bridge.alex;
+package alex.bridge;
 
 import java.util.HashMap;
 import java.util.Map;

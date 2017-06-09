@@ -1,4 +1,4 @@
-package hackerrank.bridge.alex.challenges;
+package alex.bridge.hackerrank.challenges;
 
 import java.io.*;
 import java.util.Map;

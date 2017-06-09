@@ -1,4 +1,4 @@
-package hackerrank.bridge.alex;
+package alex.bridge;
 
 public class Test {
 
